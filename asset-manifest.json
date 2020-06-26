@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hero-tutorial/static/css/main.d18bcce9.chunk.css",
+    "main.js": "/hero-tutorial/static/js/main.6fedd6bd.chunk.js",
+    "main.js.map": "/hero-tutorial/static/js/main.6fedd6bd.chunk.js.map",
+    "runtime-main.js": "/hero-tutorial/static/js/runtime-main.32686080.js",
+    "runtime-main.js.map": "/hero-tutorial/static/js/runtime-main.32686080.js.map",
+    "static/js/2.7aaef059.chunk.js": "/hero-tutorial/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/hero-tutorial/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/hero-tutorial/index.html",
+    "precache-manifest.7a3f915b50c6e291b85fa6873aa505cc.js": "/hero-tutorial/precache-manifest.7a3f915b50c6e291b85fa6873aa505cc.js",
+    "service-worker.js": "/hero-tutorial/service-worker.js",
+    "static/css/main.d18bcce9.chunk.css.map": "/hero-tutorial/static/css/main.d18bcce9.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/hero-tutorial/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32686080.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.d18bcce9.chunk.css",
+    "static/js/main.6fedd6bd.chunk.js"
+  ]
+}
